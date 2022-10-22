@@ -1,0 +1,30 @@
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\prjAtendimento.csproj.AssemblyReference.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAtendimento.resources
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\prjAtendimento.csproj.GenerateResource.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\prjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\prjAtendimento.csproj.AssemblyReference.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\WindowsFormsApp1.frmAtendimento.resources
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\prjAtendimento.csproj.GenerateResource.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\prjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\source\repos\WindowsFormsApp1\prjAtendimento\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\prjAtendimento.csproj.AssemblyReference.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\WindowsFormsApp1.frmAtendimento.resources
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\prjAtendimento.csproj.GenerateResource.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\prjAtendimento.csproj.CoreCompileInputs.cache
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Dougl\OneDrive\Documentos\Estudo\Projeto Bruna\prjAtendimento\prjAtendimento\obj\Debug\WindowsFormsApp1.pdb
